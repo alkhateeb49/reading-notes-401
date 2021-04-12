@@ -17,7 +17,7 @@ A class can also be defined as a blueprint from which you can create an individu
 Java inheritance refers to the ability in Java for one class to inherit from another class. In Java this is also called extending a class. One class can extend another class and thereby inherit from that class.<br/>
 When one class inherits from another class in Java, the two classes take on certain roles. The class that extends (inherits from another class) is the subclass and the class that is being extended (the class being inherited from) is the superclass . In other words, the subclass extends the superclass. Or, the subclass inherits from the superclass.<br/>
 Another commonly used term for inheritance is specialization and generalization. A subclass is a specialization of a superclass, and a superclass is a generalization of one or more subclasses.<br>
-nheritance can be an effective method to share code between classes that have some traits in common, yet allowing the classes to have some parts that are different.
+nheritance can be an effective method to share code between classes that have some traits in common, yet allowing the classes to have somea parts that are different.
 
 * * Interfaces<br/>
 Interface is a reference type in Java. It is similar to class. It is a collection of abstract methods. A class implements an interface, thereby inheriting the abstract methods of the interface.<br/>
