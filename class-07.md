@@ -1,6 +1,7 @@
 # Class 7
 
 * ## SOLID principles intro<br/>
+![Solid](img/solid.png)<br/>
 The SOLID Principles are five principles of Object-Oriented class design. They are a set of rules and best practices to follow while designing a class structure.<br/>
 These five principles help us understand the need for certain design patterns and software architecture in general. So I believe that it is a topic that every developer should learn.<br/>
 This article will teach you everything you need to know to apply SOLID principles to your projects.<br/>
