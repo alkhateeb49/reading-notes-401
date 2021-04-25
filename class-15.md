@@ -23,15 +23,13 @@ Single Sign On With GitHub
 In this section, you’ll create a minimal application that uses GitHub for authentication. This will be quite easy by taking advantage of the autoconfiguration features in Spring Boot.
 
 Creating a New Project
-First, you need to create a Spring Boot application, which can be done in a number of ways. The easiest is to go to https://start.spring.io and generate an empty project (choosing the "Web" dependency as a starting point). Equivalently, do this on the command line:
+First, you need to create a Spring Boot application, which can be done in a number of ways. and generate an empty project (choosing the "Web" dependency as a starting point). Equivalently, do this on the command line:
 
 $ mkdir ui && cd ui
-$ curl https://start.spring.io/starter.tgz -d style=web -d name=simple | tar -xzvf -COPY
+$ curl -d style=web -d name=simple | tar -xzvf -COPY
 You can then import that project into your favorite IDE (it’s a normal Maven Java project by default), or just work with the files and mvn on the command line.
 
 Add a Home Page
 In your new project, create index.html in the src/main/resources/static folder. You should add some stylesheets and JavaScript links so the result looks like this:
-
-index.html
 
 ---
