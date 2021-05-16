@@ -8,6 +8,7 @@ WebSocket communication takes place over a single TCP socket using either WS (po
 ### How is WebSocket different than HTTP polling, HTTP streaming, and server-sent events?<br>
 Historically, creating web apps that needed real-time data (like gaming or chat apps) required an abuse of HTTP protocol to establish bidirectional data transfer. There were multiple methods used to achieve real-time capabilities, but none of them were as efficient as WebSockets. HTTP polling, HTTP streaming, Comet, SSE — they all had their own drawbacks.<br>
 
+
 ![Image](img/websockets.webp)
 
 ---
