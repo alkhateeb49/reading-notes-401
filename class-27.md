@@ -16,4 +16,28 @@ In order to use shared preferences, you have to call a method getSharedPreferenc
 
 ![Image](img/android.jpg)
 
+
+### Defining launch modes
+Launch modes allow you to define how a new instance of an activity is associated with the current task. You can define different launch modes in two ways:
+
+* * Using the manifest file
+When you declare an activity in your manifest file, you can specify how the activity should associate with tasks when it starts.
+
+* * Using Intent flags
+When you call startActivity(), you can include a flag in the Intent that declares how (or whether) the new activity should associate with the current task.
+
+### Handling affinities
+The affinity indicates which task an activity prefers to belong to. By default, all the activities from the same app have an affinity for each other. So, by default, all activities in the same app prefer to be in the same task. However, you can modify the default affinity for an activity. Activities defined in different apps can share an affinity, or activities defined in the same app can be assigned different task affinities.
+
+### Starting a task
+```
+<activity ... >
+    <intent-filter ... >
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+    </intent-filter>
+    ...
+</activity>
+```
+
 ---
