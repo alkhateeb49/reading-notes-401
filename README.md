@@ -24,3 +24,8 @@
 * [Class 29](class-29)
 * [Class 30](class-30)
 * [Class 31](class-31)
+* [Class 32](class-32)
+* [Class 33](class-33)
+* [Class 34](class-34)
+* [Class 35](class-35)
+* [Class 36](class-36)
