@@ -2,7 +2,7 @@
 # Amplify with Cognito for Login
 
 ## Android Monetization
-This process involves multiple strategies. Some categories of apps are more suited to specific app monetization models than others. Some apps focus on one particular area of app monetization, and others incorporate multiple aspects.
+This process involves multiple strategies. Some categories of apps are more suited to specific app monetization models than others. Some apps focus on one particular area of app monetization, and others incorporate multiple aspects.<br>
 
 As a developer, you’ll need to generate revenue from your app. In the app economy, it can be challenging to stay afloat. Unless you have secured a nice amount of funding, it’s essential to read the advice in this post.
 
