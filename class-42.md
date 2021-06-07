@@ -1,4 +1,4 @@
-# Read 42
+# Read: Class 42 - Ethics in Tech
 
 ## Code of Ethics
 
