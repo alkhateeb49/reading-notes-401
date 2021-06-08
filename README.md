@@ -1,6 +1,6 @@
 # reading-notes-401
 
-## _Table of contents
+## Table of contents
 
 * [Class 01](class-01)
 * [Class 02](class-02)
