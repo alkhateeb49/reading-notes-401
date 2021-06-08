@@ -32,6 +32,7 @@
 * [Class 36](class-36)
 * [Class 37](class-37)
 * [Class 38](class-38)
+* [Class 39](class-39)
 * [Class 41](class-41)
 * [Class 42](class-42)
 * [Class 43](class-43)
